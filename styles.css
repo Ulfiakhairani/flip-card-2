@@ -58,7 +58,6 @@ body {
   backface-visibility: hidden;
 }
 
-
 .flip-card__front-side {
   background: #FFE6E6;
   color: black;
@@ -70,6 +69,14 @@ body {
   background: #E1AFD1;
   color: black;
   transform: rotateY(180deg);
+}
+
+.background-baru-front {
+  background-color: #B0C4DE;
+}
+
+.background-baru-back {
+  background-color: #6976BA;
 }
 
 .text-container {
